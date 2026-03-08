@@ -1,0 +1,7 @@
+Option,Active Material,Binder,Conductive Additive,Electrode Type
+1,Graphite,CMC,Super P,Anode
+2,Graphite,PVDF,Super P,Anode
+3,NMC811,PVDF,Super P,Cathode
+4,LFP,PVDF,Super P,Cathode
+5,Silicon,CMC,Super P,Anode
+6,LiNi0.5Mn1.5O4,PVDF,Super P,Cathode

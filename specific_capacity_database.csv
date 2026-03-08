@@ -1,0 +1,8 @@
+Material,Theoretical Capacity (mAh/g),Electrode Type
+Graphite,372,Anode
+Silicon,3579,Anode
+LTO,175,Anode
+NMC811,275,Cathode
+LFP,170,Cathode
+LiNi0.5Mn1.5O4,147,Cathode
+NCA,200,Cathode
